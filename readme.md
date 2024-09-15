@@ -11,5 +11,7 @@ GEMINI_API_KEY="YOUR GEMINI_API_KEY"
 ```
 
 now simple update the url of the pdf in the main file and run the file using 
-```python main.py```
+```
+python main.py
+```
 
